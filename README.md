@@ -1,4 +1,4 @@
-# StatMech-HW4
+# StatMech HW4 - Stochastic modelling
 
 Exploring montecarlo simulations and the Doob-Gillespie algorithm.
 
